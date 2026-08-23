@@ -2,27 +2,27 @@
   "observed_at": "2026-08-19",
   "repositories": [
     {
-      "name": "FJ899/COS",
+      "name": "JTJ07/COS",
       "observed_main": "a9982d9f0ae73d8a09c3af8ce0825890784fa2ad",
       "role": "durable high-level/cross-project state, continuity and provenance"
     },
     {
-      "name": "FJ899/creative-os-project-reconstructor",
+      "name": "JTJ07/creative-os-project-reconstructor",
       "observed_main": "eb21b04e7d04caf777d66721f86ae9e83aab1dd4",
       "role": "context/project reconstruction; Real-Value Run 001 integrated observed evidence"
     },
     {
-      "name": "FJ899/scriptops",
+      "name": "JTJ07/scriptops",
       "observed_main": "5af0cd8ac65e72ae534827c677fe4bd12b23e4ca",
       "role": "Phase-6 controlled real-workflow substrate / canon-control mechanism proof; post-Saddle state reconciled"
     },
     {
-      "name": "FJ899/Executor",
+      "name": "JTJ07/Executor",
       "observed_main": "111e9e5d4fca66412e287852abdec6db5a1225ab",
       "role": "Human-accepted and integrated controlled effect engine; final completion authority state reconciled"
     },
     {
-      "name": "FJ899/executor-pilot-target",
+      "name": "JTJ07/executor-pilot-target",
       "observed_main": "6c18230d2e1223a8145885b19c5073ec1ce20662",
       "role": "deterministic technical benchmark"
     }

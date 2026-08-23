@@ -43,11 +43,11 @@ The ecosystem is an **ownership network with handoffs**, not a master command-co
 | Component/project | Observed main at source-snapshot reconciliation | Meaning of that snapshot for Saddle |
 |---|---|---|
 | `FJ899/Saddle` | resolve live `main` at read time | functional product accepted; completion lock released; PR #29 security hardening, PR #33 durable-state reconciliation and PR #35 current-state reconciliation are Human-accepted/integrated; post-acceptance evaluation only |
-| `FJ899/COS` | `a9982d9f0ae73d8a09c3af8ce0825890784fa2ad` | Human-accepted ownership/state/continuity closure; later local/cross-project continuity may be newer |
-| `FJ899/Executor` | `111e9e5d4fca66412e287852abdec6db5a1225ab` | Executor 1.0 Human-accepted and integrated; final completion authority/current-state surfaces reconciled |
-| `FJ899/scriptops` | `5af0cd8ac65e72ae534827c677fe4bd12b23e4ca` | historical continuity observation; later accepted ScriptOps history includes bounded proposal view and Run 003 |
-| `FJ899/creative-os-project-reconstructor` | `eb21b04e7d04caf777d66721f86ae9e83aab1dd4` | Run 001 integration observation; later accepted local history includes validator root-containment P0 hardening |
-| `FJ899/executor-pilot-target` | `6c18230d2e1223a8145885b19c5073ec1ce20662` | deterministic technical benchmark substrate |
+| `JTJ07/COS` | `a9982d9f0ae73d8a09c3af8ce0825890784fa2ad` | Human-accepted ownership/state/continuity closure; later local/cross-project continuity may be newer |
+| `JTJ07/Executor` | `111e9e5d4fca66412e287852abdec6db5a1225ab` | Executor 1.0 Human-accepted and integrated; final completion authority/current-state surfaces reconciled |
+| `JTJ07/scriptops` | `5af0cd8ac65e72ae534827c677fe4bd12b23e4ca` | historical continuity observation; later accepted ScriptOps history includes bounded proposal view and Run 003 |
+| `JTJ07/creative-os-project-reconstructor` | `eb21b04e7d04caf777d66721f86ae9e83aab1dd4` | Run 001 integration observation; later accepted local history includes validator root-containment P0 hardening |
+| `JTJ07/executor-pilot-target` | `6c18230d2e1223a8145885b19c5073ec1ce20662` | deterministic technical benchmark substrate |
 
 These SHAs are last-observed continuity snapshots from the source-snapshot reconciliation, not remote locks. Local detailed truth remains with each project and live state must be re-resolved from the local semantic owner before consequential use. Later accepted local-owner history may therefore be newer than this table without turning the table into a false `CURRENT LIVE` claim.
 
@@ -87,7 +87,7 @@ FALSE SUCCESS PATHS IN FINAL TARGET EVIDENCE = 0
 
 Saddle result record:
 
-`evidence/PROJECT_COMPLETION_AUTONOMY_EXECUTOR_RESULT_2026-08-19.md`.
+`evidence/PROJECT_COMPLETION_AUTONOMY_EXECUTOR_RESULT_2026-08-19.md`
 
 Reconstructor Real-Value Run 001:
 

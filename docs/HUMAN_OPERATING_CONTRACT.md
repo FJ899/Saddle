@@ -3,7 +3,7 @@ document: "Human operating contract"
 status: "HUMAN-APPROVED / CURRENT INTERACTION CONTRACT"
 effective_at: "2026-08-21"
 semantic_owner: "HUMAN"
-durable_repository: "JTJ07/Saddle"
+durable_repository: "FJ899/Saddle"
 scope: "Human ↔ AI operational task/handoff surface"
 ---
 

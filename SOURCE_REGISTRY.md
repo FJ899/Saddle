@@ -8,11 +8,11 @@ Purpose: keep external source observations separate from historical evidence ide
 
 | Source | Observed main at reconciliation | Current role |
 |---|---|---|
-| `FJ899/COS` | `a9982d9f0ae73d8a09c3af8ce0825890784fa2ad` | durable high-level/cross-project state, continuity and provenance |
-| `FJ899/creative-os-project-reconstructor` | `eb21b04e7d04caf777d66721f86ae9e83aab1dd4` | project/context reconstruction; Real-Value Run 001 integrated observed evidence |
-| `FJ899/scriptops` | `5af0cd8ac65e72ae534827c677fe4bd12b23e4ca` | Phase-6 controlled workflow mechanism proof / local canon-control substrate; post-Saddle current state reconciled |
-| `FJ899/Executor` | `111e9e5d4fca66412e287852abdec6db5a1225ab` | Human-accepted and integrated governed effect engine; final completion authority state reconciled |
-| `FJ899/executor-pilot-target` | `6c18230d2e1223a8145885b19c5073ec1ce20662` | deterministic technical benchmark repository |
+| `JTJ07/COS` | `a9982d9f0ae73d8a09c3af8ce0825890784fa2ad` | durable high-level/cross-project state, continuity and provenance |
+| `JTJ07/creative-os-project-reconstructor` | `eb21b04e7d04caf777d66721f86ae9e83aab1dd4` | project/context reconstruction; Real-Value Run 001 integrated observed evidence |
+| `JTJ07/scriptops` | `5af0cd8ac65e72ae534827c677fe4bd12b23e4ca` | Phase-6 controlled workflow mechanism proof / local canon-control substrate; post-Saddle current state reconciled |
+| `JTJ07/Executor` | `111e9e5d4fca66412e287852abdec6db5a1225ab` | Human-accepted and integrated governed effect engine; final completion authority state reconciled |
+| `JTJ07/executor-pilot-target` | `6c18230d2e1223a8145885b19c5073ec1ce20662` | deterministic technical benchmark repository |
 
 Machine-readable copy: `config/source-repos.json`.
 

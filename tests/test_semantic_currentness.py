@@ -73,7 +73,7 @@ CAPABILITY != PERMISSION
         encoding="utf-8",
     )
     (config / "source-repos.json").write_text(
-        json.dumps({"repositories": [{"name": "FJ899/Executor", "observed_main": "a" * 40, "role": "snapshot"}]}),
+        json.dumps({"repositories": [{"name": "JTJ07/Executor", "observed_main": "a" * 40, "role": "snapshot"}]}),
         encoding="utf-8",
     )
 

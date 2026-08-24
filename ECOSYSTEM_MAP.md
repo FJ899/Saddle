@@ -42,7 +42,7 @@ The ecosystem is an **ownership network with handoffs**, not a master command-co
 
 | Component/project | Observed main at source-snapshot reconciliation | Meaning of that snapshot for Saddle |
 |---|---|---|
-| `JTJ07/Saddle` | resolve live `main` at read time | functional product accepted; completion lock released; PR #29 security hardening, PR #33 durable-state reconciliation and PR #35 current-state reconciliation are Human-accepted/integrated; post-acceptance evaluation only |
+| `FJ899/Saddle` | resolve live `main` at read time | functional product accepted; completion lock released; PR #29 security hardening, PR #33 durable-state reconciliation and PR #35 current-state reconciliation are Human-accepted/integrated; post-acceptance evaluation only |
 | `JTJ07/COS` | `a9982d9f0ae73d8a09c3af8ce0825890784fa2ad` | Human-accepted ownership/state/continuity closure; later local/cross-project continuity may be newer |
 | `JTJ07/Executor` | `111e9e5d4fca66412e287852abdec6db5a1225ab` | Executor 1.0 Human-accepted and integrated; final completion authority/current-state surfaces reconciled |
 | `JTJ07/scriptops` | `5af0cd8ac65e72ae534827c677fe4bd12b23e4ca` | historical continuity observation; later accepted ScriptOps history includes bounded proposal view and Run 003 |
